@@ -2,13 +2,17 @@
 
 ![Netflix Logo](https://github.com/Athira002/Netflix_SQL_Project/blob/main/netflix.jpg)
 
-## Overview
-This project provides an in-depth analysis of Netflix's content library using SQL queries. The dataset contains information about various shows and movies available on the platform, including their titles, genres, release dates, countries, and other metadata.
+## Objective
+The primary objective of this project is to analyze and explore the Netflix content library using SQL queries to extract meaningful insights from the dataset. By leveraging PostgreSQL, this analysis focuses on understanding the distribution, trends, and patterns of Netflix's content, including movies and TV shows. Key objectives include:
 
-The main goals of the analysis include:
+### 1.Content Categorization: To categorize content based on genres, countries, and ratings to understand Netflix’s content variety.
 
-1.Content Distribution by Genre: Identifying the number of content items in each genre, helping to understand which genres are most popular or abundant on Netflix.
+Trend Analysis: To identify trends in content releases over the years, especially focusing on growth in specific regions like India.
 
-2.Top Countries with Content: Determining which countries have the most content available, focusing specifically on India for a more localized analysis.
+Actor and Director Analysis: To identify key actors and directors associated with Netflix content, and to observe their involvement over time.
 
-3.Yearly Content Release Trends: Analyzing content release trends over the years to observe Netflix's growth in terms of content production and availability.
+Content Characteristics: To analyze movies and TV shows based on attributes like duration, number of seasons, and descriptions (e.g., the presence of keywords like "violence" and "kill").
+
+Geographical Insights: To determine which countries contribute the most to Netflix’s content library and how content availability varies across different regions.
+
+Through this analysis, the project aims to provide insights into Netflix's content strategy, help discover hidden patterns, and offer a comprehensive understanding of the platform’s catalog
