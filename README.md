@@ -21,7 +21,8 @@ Through this analysis, the project aims to provide insights into Netflix's conte
 The for this project is sourced from the Kaggle Dataset:
 - Dataset Link:[Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-##Schema
+## Schema
+
 '''sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
@@ -39,3 +40,4 @@ duration VARCHAR(15),
 listed_in VARCHAR(100),
 description VARCHAR(250)
 );
+'''
