@@ -19,4 +19,4 @@ Through this analysis, the project aims to provide insights into Netflix's conte
 
 ## Dataset
 The for this project is sourced from the Kaggle Dataset:
-Dataset Link:[Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Dataset Link:![Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
