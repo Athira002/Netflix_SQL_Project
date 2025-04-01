@@ -5,7 +5,7 @@
 ## Objective
 The primary objective of this project is to analyze and explore the Netflix content library using SQL queries to extract meaningful insights from the dataset. By leveraging PostgreSQL, this analysis focuses on understanding the distribution, trends, and patterns of Netflix's content, including movies and TV shows. Key objectives include:
 
- 1.Content Categorization: To categorize content based on genres, countries, and ratings to understand Netflix’s content variety.
+ 1) Content Categorization: To categorize content based on genres, countries, and ratings to understand Netflix’s content variety.
 
  2.Trend Analysis: To identify trends in content releases over the years, especially focusing on growth in specific regions like India.
 
