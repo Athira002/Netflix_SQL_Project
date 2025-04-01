@@ -23,7 +23,7 @@ The for this project is sourced from the Kaggle Dataset:
 
 ## Schema
 
-'''sql
+```sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -40,4 +40,4 @@ duration VARCHAR(15),
 listed_in VARCHAR(100),
 description VARCHAR(250)
 );
-'''
+```
