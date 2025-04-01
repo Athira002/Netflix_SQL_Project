@@ -7,12 +7,12 @@ The primary objective of this project is to analyze and explore the Netflix cont
 
  1) Content Categorization: To categorize content based on genres, countries, and ratings to understand Netflix’s content variety.
 
- 2.Trend Analysis: To identify trends in content releases over the years, especially focusing on growth in specific regions like India.
+ 2) Trend Analysis: To identify trends in content releases over the years, especially focusing on growth in specific regions like India.
 
- 3.Actor and Director Analysis: To identify key actors and directors associated with Netflix content, and to observe their involvement over time.
+ 3) Actor and Director Analysis: To identify key actors and directors associated with Netflix content, and to observe their involvement over time.
 
- 4.Content Characteristics: To analyze movies and TV shows based on attributes like duration, number of seasons, and descriptions (e.g., the presence of keywords like "violence" and "kill").
+ 4) Content Characteristics: To analyze movies and TV shows based on attributes like duration, number of seasons, and descriptions (e.g., the presence of keywords like "violence" and "kill").
 
- 5.Geographical Insights: To determine which countries contribute the most to Netflix’s content library and how content availability varies across different regions.
+ 5) Geographical Insights: To determine which countries contribute the most to Netflix’s content library and how content availability varies across different regions.
 
 Through this analysis, the project aims to provide insights into Netflix's content strategy, help discover hidden patterns, and offer a comprehensive understanding of the platform’s catalog.
