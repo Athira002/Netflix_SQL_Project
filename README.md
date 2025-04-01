@@ -41,3 +41,16 @@ listed_in VARCHAR(100),
 description VARCHAR(250)
 );
 ```
+
+## Business Problems and Solutions
+
+### 1. Count the number of Movies or TV Shows
+
+```sql
+SELECT*FROM netflix;
+SELECT 
+ type,
+ COUNT(*) as total_content 
+FROM netflix
+GROUP BY TYPE;
+```
