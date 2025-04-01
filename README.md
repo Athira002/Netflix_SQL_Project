@@ -16,3 +16,7 @@ The primary objective of this project is to analyze and explore the Netflix cont
  5) Geographical Insights: To determine which countries contribute the most to Netflix’s content library and how content availability varies across different regions.
 
 Through this analysis, the project aims to provide insights into Netflix's content strategy, help discover hidden patterns, and offer a comprehensive understanding of the platform’s catalog.
+
+## Dataset
+The for this project is sourced from the Kaggle Dataset:
+Dataset Link:[Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
