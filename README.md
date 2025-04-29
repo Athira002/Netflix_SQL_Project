@@ -75,7 +75,7 @@ WHERE
   ranking=1
 ```
 
-### 3. List all movies relaesed in a specific year(eg.2020)
+### 3. List all movies released in a specific year(eg.2020)
 ```sql
 SELECT * FROM netflix
 WHERE 
